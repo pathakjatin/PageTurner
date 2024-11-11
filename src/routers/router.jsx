@@ -16,7 +16,7 @@ import ManageBooks from "../pages/dashboard/manageBooks/ManageBooks";
 import { Provider } from 'react-redux';
 import { store } from '../redux/features/store.js';
 import AddBook from "../pages/dashboard/addBook/AddBook.jsx";
-import UpdateBook from "../pages/dashboard/editbook/Updatebook.jsx";
+import UpdateBook from "../pages/dashboard/editbook/UpdateBook.jsx";
 import UserDashboard from "../pages/dashboard/users/UserDashboard.jsx";
 
 const router = createBrowserRouter([
