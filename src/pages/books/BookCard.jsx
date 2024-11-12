@@ -40,9 +40,9 @@ const BookCard = ({book}) => {
                     </p>
                     <button 
                     onClick={() => handleAddToCart(book)}
-                    className="btn-primary px-6 space-x-1 flex items-center gap-1 ">
+                    className=" px-6 space-x-1 flex items-center gap-1 bg-primary p-3 hover:rounded-xl transition-all duration-300 ease-in-out">
                         <FiShoppingCart className="" />
-                        <span>Add to Cart</span>
+                        <span >Add to Cart</span>
                     </button>
                 </div>
             </div>

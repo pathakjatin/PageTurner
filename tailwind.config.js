@@ -7,13 +7,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        'primary': '#FFCE1A',
+        'primary': '#E76F51',
         'secondary' : "#0D0842",
         'blackBG': '#F3F3F3',
         'Favorite': '#FF5841'
       }, 
       fontFamily: {
-        'primary' : ["Montserrat", "sans-serif"],
+        'primary' : ["'Outfit'", "serif"],
         'secondary' : ["Nunito Sans", "sans-serif"]
       }
     },
